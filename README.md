@@ -2,6 +2,8 @@
 
 A classic **Snake Game** built using vanilla JavaScript, HTML5 Canvas, and CSS. This project was developed to understand fundamental game loops, event handling, canvas rendering, and responsive UI design in front-end development.
 
+---
+
 ![Snake Game Screenshot](./screenshot.png)
 
 ---
